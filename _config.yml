@@ -3,8 +3,8 @@ menu:
   Archives: /archives
 
 # duoshuo comment
-duoshuo: false
-duoshuo_name: 
+duoshuo: true
+duoshuo_name: antware
 
 # disqus comment
 disqus: false
